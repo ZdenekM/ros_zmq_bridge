@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package>
+  <name>ros_zmq_bridge</name>
+  <version>0.0.0</version>
+  <description>The ros_zmq_bridge package</description>
+
+  <maintainer email="zdenek.materna@gmail.com">Zdenek Materna</maintainer>
+
+  <license>LGPL</license>
+
+  <url type="repository">https://github.com/ZdenekM/ros_zmq_bridge</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>rospy</build_depend>
+  <run_depend>rospy</run_depend>
+
+</package>
